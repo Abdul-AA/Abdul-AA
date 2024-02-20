@@ -8,7 +8,7 @@ I am Abdul, a data-driven problem solver passionate about enhancing healthcare t
 
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/abdularo) | abdulrahman.aroworamimo@mail.mcgill.ca
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an enthusiast of fashion, fitness, and nutrition. Cooking and spending quality time with loved ones are my go-to activities.
+- ⚡ Fun fact: I'm an enthusiast of fashion, fitness, and nutrition. Cooking and sharing my meals with loved ones are my go-to activities 😄
 
 
 ## My Skillset
