@@ -13,6 +13,5 @@ I am Abdul, a data-driven problem solver passionate about enhancing healthcare t
 
 ## My Skillset
 
-- **Technical Skills**: Proficient in Python, R, SQL, and data visualization tools like Tableau.
-- **Business Acumen**: Strategic decision-making, process optimization, and problem-solving.
-- **Management Skills**: Advanced understanding of project management and business development.
+- **Technical Skills**: Python, NumPy, Pandas, Gurobi, Matplotlib, R, SQL, Tableau, Power BI, Excel, Machine Learning, NLP, probability/statistics, optimization, causal inference, graph database
+  
