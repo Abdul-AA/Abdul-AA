@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I'm an enthusiast of fashion, fitness, and nutrition. Cooking and sharing my meals with loved ones are my go-to activities 😄
 
 
-## My Skillset
+## My Skills
 
-- **Technical Skills**: Python, NumPy, Pandas, Gurobi, Matplotlib, R, SQL, Tableau, Power BI, Excel, Machine Learning, NLP, probability/statistics, optimization, causal inference, graph database
+- **Technical Skills**: Python, NumPy, Pandas, Gurobi, Matplotlib, R, SQL, Tableau, Power BI, Excel, machine learning, deep learning, NLP, probability/statistics, optimization, causal inference, graph database
   
