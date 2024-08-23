@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-- I am Abdul, a data-driven problem solver passionate about enhancing healthcare through analytics.
+- I am Abdul, a data-driven problem solver passionate about ensuring optimal decisions by leveraging data.
 - With an initial interest in management, my MBA journey unveiled my interest in evidence-based management and data analytics. 
 - 🌱I recently completed the Master of Mangement in analytics program at McGill
 - 👯 I’m looking to collaborate on projects that drive innovation and positive change in any domain
